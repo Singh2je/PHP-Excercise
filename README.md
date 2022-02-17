@@ -8,6 +8,15 @@ We have the following components
 
 
 
-GET Method: shows up in the URL
+GET Method: data shows up in the URL
 
 POST Method: does not. Better for sensitive data, you don't want passwords to show up in the URL's.
+
+
+
+
+Requirements to Run:
+- You need a server to run php
+
+Reference this video if you would like to run your php file.
+https://youtu.be/XBj_le81sAc?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP
